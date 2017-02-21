@@ -1,0 +1,7 @@
+1. P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.
+
+2. Diamonds Exploration by Chris Saden.
+
+3. Creating Effective Plots: https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd002/DataAnalysiswithRCreatingEffectivePlots.pdf
+
+4. Style guide: http://adv-r.had.co.nz/Style.html
